@@ -1,0 +1,13 @@
+alpaca_hbb  - Entropy (BPS): 7.65507796 Length of OG string: 1512 Desired Length of Bitstring: 11574.47787552
+bat_hbb  - Entropy (BPS): 7.56861189 Length of OG string: 1594 Desired Length of Bitstring: 12064.36735266
+chinchilla_hbb  - Entropy (BPS): 7.58139585 Length of OG string: 1352 Desired Length of Bitstring: 10250.04718920
+cow_hbb  - Entropy (BPS): 7.62452046 Length of OG string: 1643 Desired Length of Bitstring: 12527.08711578
+dog_hbb  - Entropy (BPS): 7.54560726 Length of OG string: 1360 Desired Length of Bitstring: 10262.02587360
+goat_hbb  - Entropy (BPS): 7.61981548 Length of OG string: 1568 Desired Length of Bitstring: 11947.87067264
+human_hbb  - Entropy (BPS): 7.56007641 Length of OG string: 1608 Desired Length of Bitstring: 12156.60286728
+norwayrat_hbb  - Entropy (BPS): 7.49270981 Length of OG string: 1412 Desired Length of Bitstring: 10579.70625172
+pelican_hbb  - Entropy (BPS): 7.54898564 Length of OG string: 1683 Desired Length of Bitstring: 12704.94283212
+pig_hbb  - Entropy (BPS): 7.56776401 Length of OG string: 1259 Desired Length of Bitstring: 9527.81488859
+pike_hbb  - Entropy (BPS): 7.66188080 Length of OG string: 1044 Desired Length of Bitstring: 7999.00355520
+polarbear_hbb  - Entropy (BPS): 7.54899150 Length of OG string: 1400 Desired Length of Bitstring: 10568.58810000
+rhesus_hbb  - Entropy (BPS): 7.49794686 Length of OG string: 1460 Desired Length of Bitstring: 10947.00241560
